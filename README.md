@@ -1,5 +1,5 @@
 # Weekly-Wallpaper
-A python script that changes your wallpaper to a nice gradient one with a day of the week on it.
+    A python script that changes your wallpaper to a nice gradient one with a day of the week on it.
 
 ##To make it run everytime you open your computer do the following:
  
