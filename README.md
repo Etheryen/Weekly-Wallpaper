@@ -7,4 +7,4 @@ A python script that changes your wallpaper to a nice gradient one with a day of
 
 2. Name it whatever you want
 
-3. Move the file to the directory :  C:\Users\{ USER NAME }\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+3. Move the file to the directory :  `C:\Users\{ USER NAME }\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
