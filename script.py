@@ -1,7 +1,4 @@
-﻿# 03.02.2019
-# version 1.1
-
-import ctypes
+﻿import ctypes
 import datetime
 import sys
 from pathlib import Path
